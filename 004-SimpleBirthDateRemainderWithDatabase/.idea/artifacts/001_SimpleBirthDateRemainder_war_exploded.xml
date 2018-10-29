@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="002-SimpleBirthDateRemainder" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="postgresql-42.2.5" />
+        </element>
       </element>
     </root>
   </artifact>
